@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     abstruct.cpp(抽象类)
-> Author:        程序员Carl
-> 微信公众号:    代码随想录
+> Author:        Quincy
+> mail:          clintluo315@gmail.com
 > Created Time:  Thu 20 Jul 2023 07:49:36 PM CST
 > Description:   
  ************************************************************************/
