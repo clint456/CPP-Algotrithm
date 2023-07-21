@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+-  基本操作	vector.md	/^## 基本操作$/;"	h
+-  类型	vector.md	/^## 类型$/;"	h
+Rectangle	abstruct.cpp	/^class Rectangle: public Shape{$/;"	c	file:
+Rectangle::getArea	abstruct.cpp	/^    int getArea(){$/;"	f	class:Rectangle	access:public	signature:()
+Shape	abstruct.cpp	/^class Shape$/;"	c	file:
+Shape::height	abstruct.cpp	/^       int height;$/;"	m	class:Shape	file:	access:protected
+Shape::setHeight	abstruct.cpp	/^       void setHeight(int h)$/;"	f	class:Shape	access:public	signature:(int h)
+Shape::setWidth	abstruct.cpp	/^       void setWidth(int w)$/;"	f	class:Shape	access:public	signature:(int w)
+Shape::width	abstruct.cpp	/^       int width;$/;"	m	class:Shape	file:	access:protected
+Triangle	abstruct.cpp	/^class Triangle: public Shape{$/;"	c	file:
+Triangle::getArea	abstruct.cpp	/^    int getArea()$/;"	f	class:Triangle	access:public	signature:()
+check_new	dynamic_ram.cpp	/^void check_new(double* pvalue)$/;"	f	signature:(double* pvalue)
+division	except_option.cpp	/^double division(int a, int b)$/;"	f	signature:(int a, int b)
+getArea	abstruct.cpp	/^    int getArea()$/;"	f	class:Triangle	access:public	signature:()
+getArea	abstruct.cpp	/^    int getArea(){$/;"	f	class:Rectangle	access:public	signature:()
+height	abstruct.cpp	/^       int height;$/;"	m	class:Shape	file:	access:protected
+main	abstruct.cpp	/^int main(void)$/;"	f	signature:(void)
+main	dynamic_ram.cpp	/^int main()$/;"	f	signature:()
+main	except_option.cpp	/^int main ()$/;"	f	signature:()
+main	file_strea.cpp	/^int main(){$/;"	f	signature:()
+setHeight	abstruct.cpp	/^       void setHeight(int h)$/;"	f	class:Shape	access:public	signature:(int h)
+setWidth	abstruct.cpp	/^       void setWidth(int w)$/;"	f	class:Shape	access:public	signature:(int w)
+width	abstruct.cpp	/^       int width;$/;"	m	class:Shape	file:	access:protected
