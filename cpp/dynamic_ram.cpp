@@ -22,6 +22,7 @@ if( !(pvalue  = new double ))
 
 int main()
 {
+    
     double* p = NULL;
     check_new(p);
     return 0;
