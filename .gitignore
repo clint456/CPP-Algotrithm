@@ -1,6 +1,4 @@
 $ cat .gitignore
 .vscode/*
-cpp/*/output/*
-algorithm/*/output/*
-
+output/
 
