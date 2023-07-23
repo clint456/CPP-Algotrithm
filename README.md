@@ -1,6 +1,7 @@
 # CPP & Algorithm
 
-### File Directory of ./cpp
+
+# File Directory of ./cpp
 - **[cpp](cpp/)**
 	- **[vector](cpp/vector/)**
 		- [vector.cpp](cpp/vector/vector.cpp)
@@ -10,7 +11,6 @@
 		- **[output](cpp/动态规划/output/)**
 			- [demo](cpp/动态规划/output/demo)
 		- [readme.md](cpp/动态规划/readme.md)
-		- **[template](cpp/动态规划/template/)**
 	- **[异常抛出](cpp/异常抛出/)**
 		- [except_option.cpp](cpp/异常抛出/except_option.cpp)
 	- **[文件和流](cpp/文件和流/)**
@@ -20,3 +20,5 @@
 		- [template.cpp](cpp/模版/template.cpp)
 	- **[类](cpp/类/)**
 		- [abstruct.cpp](cpp/类/abstruct.cpp)
+		- **[output](cpp/类/output/)**
+			- [abstruct](cpp/类/output/abstruct)
