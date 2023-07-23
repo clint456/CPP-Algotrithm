@@ -1,13 +1,13 @@
-
-# File Directory of ./cpp
+# CPP & Algorithm 
+# File Directory of algorithm/
+- **[algorithm](algorithm/)**
+# File Directory of cpp/
 - **[cpp](cpp/)**
 	- **[vector](cpp/vector/)**
 		- [vector.cpp](cpp/vector/vector.cpp)
 		- [vector.md](cpp/vector/vector.md)
 	- **[动态规划](cpp/动态规划/)**
 		- [dynamic_ram.cpp](cpp/动态规划/dynamic_ram.cpp)
-		- **[output](cpp/动态规划/output/)**
-			- [demo](cpp/动态规划/output/demo)
 		- [readme.md](cpp/动态规划/readme.md)
 	- **[异常抛出](cpp/异常抛出/)**
 		- [except_option.cpp](cpp/异常抛出/except_option.cpp)
