@@ -1,19 +1,17 @@
+/* ************************************************************************
+> File Name:     dynamic_ram.cpp
+> Author:        Quincy
+> mail:          clintluo315@gmail.com
+> Created Time:  Sat 22 Jul 2023 11:56:15 PM CST
+> Description:   
+ ************************************************************************/
 #include <iostream>
+
 using namespace std;
- 
-int main ()
-{
-   double* pvalue  = NULL; // 初始化为 null 的指针
 
-   pvalue  = new double;   // 为变量请求内存
+int  main()
+   {
 
- 
-   *pvalue = 29494.99;     // 在分配的地址存储值
-
-   cout << "Value of pvalue : " << *pvalue << endl;
- 
-   delete pvalue;         // 释放内存
-
- 
-   return 0;
-} 
+       cout << "aaaa" <<endl;
+       return 0;
+   }
