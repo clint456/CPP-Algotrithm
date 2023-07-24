@@ -22,9 +22,28 @@ template <typename type> ret-type func-name(parameter list)
 
 using namespace std;
 
-template <typename T>
-inline T const& Max (Y const&a, T const& b)
+template <typename T> inline T const& Max (T const&a, T const& b)
 {
     return a<b ? b:a;
+
 }
+
+//inline: 见/函数/inline.md
+int main()
+{
+    int i = 39;
+    int j = 20;
+    cout << "Max(i,j): " << Max(i,j) << endl;
+
+    double f1 = 13.5;
+    double f2 = 20.7;
+    cout << "Max(f1,f2): " << Max(f1,f2) << endl;
+
+    string s1 = "hhh";
+    string s2 = "www";
+    cout << "Max(s1,s2): " << Max(s1,s2) << endl;    
+
+return 0;
+}
+
 
