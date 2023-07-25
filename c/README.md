@@ -39,4 +39,9 @@ const float pi = 3.14
 - 空格符: \space、\t、\v、\n、\f (5个)
 - 不能显示的字符: null(\0)、 alert(\a) 、bcakspace(\b)、 carriage return(\r)...
 
+### 字符型数据的存储空间
+| 类型 | 字节数｜取值范围｜ tips |
+| --- | ---| ---｜--- |
+| singed char | 1 | -2^7 ~ (2^7-1)| 这里的"-0"代表转换成补码就是-128，所以会出来一位｜
+| unsinged char | 1 | 0 ~ (2^8-1) | --- ｜
 
